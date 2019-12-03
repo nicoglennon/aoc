@@ -1,0 +1,11 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "my submissions to advent of code.",
+  "main": "aoc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico Glennon",
+  "license": "ISC"
+}
